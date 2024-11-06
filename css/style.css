@@ -1,0 +1,455 @@
+:root {
+  --backgroundColor: whitesmoke;
+}
+main span::after {
+  content: "";
+  animation: typing 10s linear infinite;
+}
+@keyframes typing {
+  0% {
+    content: "|";
+  }
+  1% {
+    content: "D|";
+  }
+  2% {
+    content: "De|";
+  }
+  3% {
+    content: "Dev|";
+  }
+  4% {
+    content: "Deve|";
+  }
+  5% {
+    content: "Devel|";
+  }
+  6% {
+    content: "Develo|";
+  }
+  7% {
+    content: "Develop|";
+  }
+  8% {
+    content: "Develope|";
+  }
+  9% {
+    content: "Developer|";
+  }
+  10% {
+    content: "Develope|";
+  }
+  11% {
+    content: "Develop|";
+  }
+  12% {
+    content: "Develo|";
+  }
+  13% {
+    content: "Devel|";
+  }
+  14% {
+    content: "Deve|";
+  }
+  15% {
+    content: "Dev|";
+  }
+  16% {
+    content: "De|";
+  }
+  17% {
+    content: "Des|";
+  }
+  18% {
+    content: "Desi|";
+  }
+  19% {
+    content: "Desig|";
+  }
+  20% {
+    content: "Design|";
+  }
+  21% {
+    content: "Designe|";
+  }
+  22% {
+    content: "Designer|";
+  }
+  23% {
+    content: "Desige|";
+  }
+  24% {
+    content: "Desig|";
+  }
+  25% {
+    content: "Desi|";
+  }
+  26% {
+    content: "Des|";
+  }
+  27% {
+    content: "De|";
+  }
+  28% {
+    content: "D|";
+  }
+  29% {
+    content: "|";
+  }
+  30% {
+    content: "L|";
+  }
+  31% {
+    content: "LA|";
+  }
+  32% {
+    content: "Lar|";
+  }
+  33% {
+    content: "Larr|";
+  }
+  34% {
+    content: "Larry|";
+  }
+  35% {
+    content: "Larry |";
+  }
+  36% {
+    content: "Larry D|";
+  }
+  37% {
+    content: "Larry Da|";
+  }
+  38% {
+    content: "Larry Dan|";
+  }
+  39% {
+    content: "Larry Dani|";
+  }
+  40% {
+    content: "Larry Danie|";
+  }
+  41% {
+    content: "Larry Daniel|";
+  }
+  42% {
+    content: "Larry Daniel|";
+  }
+  43% {
+    content: "Larry Daniels|";
+  }
+  44% {
+    content: "Larry Daniel|";
+  }
+  45% {
+    content: "Larry Danie|";
+  }
+  46% {
+    content: "Larry Dani|";
+  }
+  47% {
+    content: "Larry Dan|";
+  }
+  48% {
+    content: "Larry Da|";
+  }
+  49% {
+    content: "Larry |";
+  }
+  50% {
+    content: "Larry|";
+  }
+  51% {
+    content: "Larr|";
+  }
+  52% {
+    content: "Lar|";
+  }
+  53% {
+    content: "La|";
+  }
+  54% {
+    content: "L|";
+  }
+  55% {
+    content: "|";
+  }
+  56% {
+    content: "photogr";
+  }
+  57% {
+    content: "photogra";
+  }
+  58% {
+    content: "photograp";
+  }
+  59% {
+    content: "photograph";
+  }
+  60% {
+    content: "photographe";
+  }
+  61% {
+    content: "photographer";
+  }
+  62% {
+    content: "photographe";
+  }
+  63% {
+    content: "photograph";
+  }
+  64% {
+    content: "photograp";
+  }
+  65% {
+    content: "photogra";
+  }
+  66% {
+    content: "photogr";
+  }
+  67% {
+    content: "photog";
+  }
+  68% {
+    content: "photo";
+  }
+  69% {
+    content: "phot";
+  }
+  70% {
+    content: "pho";
+  }
+  71% {
+    content: "ph";
+  }
+  72% {
+    content: "p";
+  }
+  73% {
+    content: "";
+  }
+  74% {
+    content: "D";
+  }
+  75% {
+    content: "De";
+  }
+  76% {
+    content: "Dev";
+  }
+  77% {
+    content: "Deve";
+  }
+  78% {
+    content: "Devel";
+  }
+  79% {
+    content: "Develo";
+  }
+  80% {
+    content: "Develop";
+  }
+  81% {
+    content: "Develope";
+  }
+  82% {
+    content: "Developer";
+  }
+  83% {
+    content: "Develope";
+  }
+  84% {
+    content: "Develop";
+  }
+  85% {
+    content: "Develo";
+  }
+  86% {
+    content: "Devel";
+  }
+  87% {
+    content: "Deve";
+  }
+  88% {
+    content: "Dev";
+  }
+  89% {
+    content: "De";
+  }
+  90% {
+    content: "Des";
+  }
+  91% {
+    content: "Desi";
+  }
+  92% {
+    content: "Desig";
+  }
+  93% {
+    content: "Design";
+  }
+  94% {
+    content: "Designe";
+  }
+  95% {
+    content: "Designer";
+  }
+  96% {
+    content: "Designe";
+  }
+  97% {
+    content: "Design";
+  }
+  98% {
+    content: "Desig";
+  }
+  99% {
+    content: "Desi";
+  }
+  100% {
+    content: "";
+  }
+}
+.header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(../imgs/bg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.header ul li {
+  background-color: rgba(0, 0, 0, 0.329);
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 50px;
+}
+/* .section-header {
+  position: relative;
+}
+.section-header h2::after {
+  content: "";
+  width: 100%;
+  height: 30px;
+  background-image: url(../imgs/dots.png);
+  background-repeat: repeat;
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  z-index: -1;
+} */
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.733);
+}
+.header {
+  height: 100vh;
+}
+#services i {
+  font-size: 30px;
+  transition: 0.5s;
+  border: 5px solid black;
+  border-radius: 50%;
+  padding: 15px 20px;
+}
+
+#services i:hover {
+  background-color: black;
+  color: white;
+}
+.nav-pills .nav-link {
+  color: black;
+}
+.nav-pills .nav-link.active {
+  color: black;
+  background-color: white;
+  text-decoration: underline;
+}
+.item {
+  position: relative;
+}
+.item-overlay {
+  position: absolute;
+  transition: 0.3s;
+  width: 90%;
+  height: 100%;
+  opacity: 0;
+  background-color: whitesmoke;
+}
+
+.item:hover .item-overlay {
+  top: 5px;
+  right: 5px;
+  left: 5px;
+  bottom: 5px;
+  opacity: 1;
+}
+.carousel-indicators [data-bs-target] {
+  background-color: #869791;
+  border: 1px solid #869791;
+  width: 10px;
+  border-radius: 20px;
+}
+#testimonials {
+  background-color: #f7f7f7;
+}
+#number i {
+  border: none;
+}
+#our-team {
+  background-color: var(--backgroundColor);
+}
+
+.card-body {
+  background-color: grey;
+}
+.card1 img {
+  transition: 0.5s;
+}
+.card1:hover img {
+  transform: scale(1.1);
+}
+.upper {
+  position: relative;
+  overflow: hidden;
+}
+.card1 {
+  transition: 0.5s;
+}
+.card1:hover .card1-cover {
+  top: 5;
+  opacity: 1;
+  background-color: white;
+  transform: rotatey(0deg);
+}
+
+.card1-cover {
+  position: absolute;
+  opacity: 0;
+  top: 20px;
+  left: 15px;
+  right: 15px;
+  bottom: 20px;
+  transition: 0.5s;
+  transform: rotateY(180deg);
+}
+
+#contact i {
+  font-size: 30px;
+  transition: 0.5s;
+  border: 5px solid black;
+  border-radius: 50%;
+  padding: 15px 20px;
+  background-color: #86979146;
+  padding: 15px 20px;
+}
+
+#contact i:hover {
+  background-color: black;
+  color: white;
+  border: 5px solid black;
+  border-radius: 50%;
+}
+footer {
+  background-color: #1c1c1c;
+}
